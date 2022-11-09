@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3, Typescript, TailwindCSS, partially FSD pattern, Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
